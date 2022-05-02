@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pkBack", "pkBack.csproj", "{06A033CD-4C87-461F-84F3-3D5A7E95B185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_pkBack", "..\Test_pkBack\Test_pkBack.csproj", "{EDA5D899-98D1-4E93-BF9E-9384EC180872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A033CD-4C87-461F-84F3-3D5A7E95B185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A033CD-4C87-461F-84F3-3D5A7E95B185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A033CD-4C87-461F-84F3-3D5A7E95B185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A033CD-4C87-461F-84F3-3D5A7E95B185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA5D899-98D1-4E93-BF9E-9384EC180872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA5D899-98D1-4E93-BF9E-9384EC180872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA5D899-98D1-4E93-BF9E-9384EC180872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA5D899-98D1-4E93-BF9E-9384EC180872}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4745595E-ED02-4B8C-A7C4-5D67073E8937}
+	EndGlobalSection
+EndGlobal

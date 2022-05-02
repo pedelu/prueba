@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "06a033cd-4c87-461f-84f3-3d5a7e95b185": {
+      "ProjectGuid": "06a033cd-4c87-461f-84f3-3d5a7e95b185",
+      "DisplayName": "pkBack",
+      "ColorIndex": 0
+    },
+    "eda5d899-98d1-4e93-bf9e-9384ec180872": {
+      "ProjectGuid": "eda5d899-98d1-4e93-bf9e-9384ec180872",
+      "DisplayName": "Test_pkBack",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
